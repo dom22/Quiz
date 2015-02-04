@@ -13,6 +13,7 @@
 		15A45A6F1A4F369F00B61472 /* QuizTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 15A45A6E1A4F369F00B61472 /* QuizTests.m */; };
 		15A45A7B1A4F37BA00B61472 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 15A45A791A4F37BA00B61472 /* ViewController.m */; };
 		15A45A7C1A4F37BA00B61472 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 15A45A7A1A4F37BA00B61472 /* ViewController.xib */; };
+		C38646E31A81976900D23406 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 15A45A7A1A4F37BA00B61472 /* ViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -205,6 +206,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C38646E31A81976900D23406 /* ViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

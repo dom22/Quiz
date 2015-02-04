@@ -20,6 +20,9 @@
 {	
 	self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
 	
+    ViewController *quizVC = [[ViewController alloc] init];
+    self.window.rootViewController = quizVC;
+    
 	self.window.backgroundColor = [UIColor whiteColor];
 	[self.window makeKeyAndVisible];
 	
